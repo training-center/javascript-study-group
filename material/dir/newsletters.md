@@ -1,1 +1,1 @@
-## Listas de email sobre [xxx]
+## Listas de email sobre JavaScript

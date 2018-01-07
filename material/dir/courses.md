@@ -1,1 +1,1 @@
-## Cursos de [xxx]
+## Cursos de JavaScript

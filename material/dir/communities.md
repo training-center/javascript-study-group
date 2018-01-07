@@ -1,1 +1,1 @@
-## Comunidades de [xxx]
+## Comunidades de JavaScript
