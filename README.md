@@ -15,7 +15,7 @@ Conforme [outros grupos de estudos](https://github.com/training-center/study-gro
 
 ## Como participar
 
-Basta responder [este formulário]() para sabermos seu nível de conhecimento, entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#javascript-studies**.
+Basta responder [este formulário](https://goo.gl/forms/GupIUL2G3gTaB9iw2) para sabermos seu nível de conhecimento, entrar no [Slack do Training Center](https://github.com/training-center/slack) e entrar no canal **#javascript-studies**.
 
 ## Reuniões
 
