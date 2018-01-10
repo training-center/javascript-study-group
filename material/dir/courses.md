@@ -33,3 +33,8 @@
 - [Hacker Org](http://www.hacker.org/) :us:
 - [Screeps](https://screeps.com/) :us:
 - [JS Robot](https://lab.reaal.me/jsrobot/) :us:
+
+
+### Créditos
+- [Matéria da Aline Bastos sobre melhores cursos para aprender JavaScript](https://braziljs.org/blog/os-melhores-cursos-online-para-aprender-javascript/) :brazil:
+- [Repositório da Aline com links para aprender](https://github.com/alinebastos/dev-practice) :brazil:
