@@ -19,6 +19,12 @@ Basta responder [este formulário](https://goo.gl/forms/GupIUL2G3gTaB9iw2) para 
 
 ## Reuniões
 
+Sábado, como já é tradição, vamos nos reunir para falar sobre os nossos estudos no mesmo hórario 20h e no mesmo lugar [Discord](https://discordapp.com).
+
+Lembrando que toda quinta-feira temos nossa pre-pauta(postada no grupo, para revisão, refinamento e definição por todos) e toda sexta-feira a atualização da pauta oficial. 
+
+Contamos com a presença de todos. Até lá! :bowtie:
+
 - [pauta](/material/agenda)
 - [ata](material/minutes)
 
