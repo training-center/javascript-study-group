@@ -10,7 +10,7 @@ A baixo a pauta da reunião programada para o dia 13/01/2018 às 20:00
  - Definir plano de estudos
  - Definir metodologias e prazos para troca de conhecimentos sobre os assuntos estudados
 
-### 2º Reunio
+### 2º Reunião
 
 A baixo a pauta da reunião programada para o dia 20/01/2018 às 20:00
 
