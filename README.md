@@ -19,7 +19,7 @@ Basta responder [este formulário](https://goo.gl/forms/GupIUL2G3gTaB9iw2) para 
 
 ## Reuniões
 
-Sábado, como já é tradição, vamos nos reunir para falar sobre os nossos estudos no mesmo hórario 20h e no mesmo lugar [Discord](https://discordapp.com).
+Sábado, como já é tradição, vamos nos reunir para falar sobre os nossos estudos no mesmo hórario 20h e no mesmo lugar [Discord](https://discord.gg/hcdwTRd).
 
 Lembrando que toda quinta-feira temos nossa pre-pauta(postada no grupo para revisão, refinamento e definição por todos) e toda sexta-feira aqui.
 
